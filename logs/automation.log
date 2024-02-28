@@ -1,0 +1,47 @@
+20:21:05.818 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Finding Upcoming Bikes-----
+20:21:11.038 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Choosing Specifically Honda Bikes-----
+20:21:16.994 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing all the Honda Bikes-----
+20:21:23.441 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Printing all Honda Bikes with Prices-----
+20:21:32.117 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Choosing Used Cars-----
+20:21:32.118 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Clicking place Chennai-----
+20:21:32.119 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti 800-----
+20:21:32.120 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti Swift Dzire-----
+20:21:32.120 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti Swift-----
+20:22:07.949 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing hyundai-----
+20:22:07.950 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing hyundaiSantro-----
+20:23:20.461 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Honda-----
+20:23:20.462 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Toyota Innova-----
+20:23:20.551 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Toyota Fortuner-----
+20:23:20.552 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Mahindra-----
+20:23:20.593 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Clicking the Login Page-----
+20:23:20.593 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Moving to Google page-----
+20:23:20.593 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing all error messages-----
+20:23:20.593 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing the Final message-----
+20:24:29.306 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Finding Upcoming Bikes-----
+20:24:34.988 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Choosing Specifically Honda Bikes-----
+20:24:41.209 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing all the Honda Bikes-----
+20:24:51.148 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Printing all Honda Bikes with Prices-----
+20:25:04.195 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Choosing Used Cars-----
+20:25:04.196 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Clicking place Chennai-----
+20:25:04.196 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti 800-----
+20:25:04.196 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti Swift Dzire-----
+20:25:04.196 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti Swift-----
+20:25:41.558 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing hyundai-----
+20:25:41.558 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing hyundaiSantro-----
+20:26:04.490 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Honda-----
+20:26:04.491 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Toyota Innova-----
+20:26:13.239 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Toyota Fortuner-----
+20:26:13.240 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Mahindra-----
+20:26:24.468 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Clicking the Login Page-----
+20:26:24.468 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Moving to Google page-----
+20:26:24.469 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing all error messages-----
+20:26:24.469 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing the Final message-----
+20:29:52.823 [main] INFO  factory.BaseClass - Clicking the Upcoming Bikes
+20:29:54.566 [main] INFO  factory.BaseClass - Clicking the Honda Bikes in manufacturers
+20:30:01.867 [main] INFO  factory.BaseClass - Scrolling to the bottom to view more bikes
+20:30:14.433 [main] INFO  factory.BaseClass - Capturing the bike names and prices
+20:30:29.860 [main] INFO  factory.BaseClass - Clicking the used cars and chennai
+20:30:38.857 [main] INFO  factory.BaseClass - Clicking maruti 800 in popular brand
+20:30:42.563 [main] INFO  factory.BaseClass - Capturing car names and prices
+20:30:45.823 [main] INFO  factory.BaseClass - Capturing all car names and prices
+20:32:06.209 [main] INFO  factory.BaseClass - Capturing an error message

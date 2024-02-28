@@ -1,0 +1,51 @@
+20:09:49.776 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti 800-----
+20:09:49.979 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti Swift Dzire-----
+20:09:49.980 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti Swift-----
+20:09:50.048 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing hyundai-----
+20:09:50.049 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing hyundaiSantro-----
+20:09:50.162 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Honda-----
+20:09:50.163 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Toyota Innova-----
+20:09:50.224 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Toyota Fortuner-----
+20:09:50.224 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Mahindra-----
+20:09:50.264 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Clicking the Login Page-----
+20:09:50.264 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Moving to Google page-----
+20:09:50.264 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing all error messages-----
+20:09:50.264 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing the Final message-----
+20:13:39.680 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Finding Upcoming Bikes-----
+20:13:44.335 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Choosing Specifically Honda Bikes-----
+20:13:48.318 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing all the Honda Bikes-----
+20:13:55.183 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Printing all Honda Bikes with Prices-----
+20:14:06.839 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Choosing Used Cars-----
+20:14:06.839 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Clicking place Chennai-----
+20:14:06.839 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti 800-----
+20:14:06.840 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti Swift Dzire-----
+20:14:06.840 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti Swift-----
+20:14:43.027 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing hyundai-----
+20:14:43.027 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing hyundaiSantro-----
+20:16:08.663 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Honda-----
+20:16:08.663 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Toyota Innova-----
+20:16:08.702 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Toyota Fortuner-----
+20:16:08.702 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Mahindra-----
+20:16:08.842 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Clicking the Login Page-----
+20:16:08.843 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Moving to Google page-----
+20:16:08.843 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing all error messages-----
+20:16:08.843 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing the Final message-----
+20:17:06.755 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Finding Upcoming Bikes-----
+20:17:12.862 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Choosing Specifically Honda Bikes-----
+20:17:18.963 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing all the Honda Bikes-----
+20:17:28.152 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Printing all Honda Bikes with Prices-----
+20:17:36.184 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Choosing Used Cars-----
+20:17:36.184 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Clicking place Chennai-----
+20:17:36.184 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti 800-----
+20:17:36.184 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti Swift Dzire-----
+20:17:36.184 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Maruti Swift-----
+20:17:56.787 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing hyundai-----
+20:17:56.788 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing hyundaiSantro-----
+20:18:24.288 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Honda-----
+20:18:24.289 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Toyota Innova-----
+20:18:33.905 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Toyota Fortuner-----
+20:18:33.905 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing Mahindra-----
+20:18:45.164 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Clicking the Login Page-----
+20:18:45.165 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Moving to Google page-----
+20:18:45.165 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing all error messages-----
+20:18:45.165 [main] INFO  testCases.TC_01_Identifynewbikes_01 - -----Capturing the Final message-----

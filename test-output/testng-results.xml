@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="11" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T20:24:10 IST" name="Suite" finished-at="2024-02-28T20:26:50 IST" duration-ms="160823">
+    <groups>
+      <group name="regression">
+        <method signature="TC_01_Identifynewbikes_01.bikeVerification1(java.lang.String)[pri:2, instance:testCases.TC_01_Identifynewbikes_01@72e5a8e]" name="bikeVerification1" class="testCases.TC_01_Identifynewbikes_01"/>
+        <method signature="TC_01_Identifynewbikes_02.carVerification2(java.lang.String)[pri:2, instance:testCases.TC_01_Identifynewbikes_02@771a660]" name="carVerification2" class="testCases.TC_01_Identifynewbikes_02"/>
+        <method signature="TC_01_Identifynewbikes_02.carVerification3(java.lang.String)[pri:3, instance:testCases.TC_01_Identifynewbikes_02@771a660]" name="carVerification3" class="testCases.TC_01_Identifynewbikes_02"/>
+        <method signature="TC_01_Identifynewbikes_02.carVerification4(java.lang.String)[pri:4, instance:testCases.TC_01_Identifynewbikes_02@771a660]" name="carVerification4" class="testCases.TC_01_Identifynewbikes_02"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_01_Identifynewbikes_01.bikeVerification(java.lang.String)[pri:1, instance:testCases.TC_01_Identifynewbikes_01@72e5a8e]" name="bikeVerification" class="testCases.TC_01_Identifynewbikes_01"/>
+        <method signature="TC_01_Identifynewbikes_01.bikeVerification1(java.lang.String)[pri:2, instance:testCases.TC_01_Identifynewbikes_01@72e5a8e]" name="bikeVerification1" class="testCases.TC_01_Identifynewbikes_01"/>
+        <method signature="TC_01_Identifynewbikes_02.carVerification(java.lang.String)[pri:1, instance:testCases.TC_01_Identifynewbikes_02@771a660]" name="carVerification" class="testCases.TC_01_Identifynewbikes_02"/>
+        <method signature="TC_01_Identifynewbikes_02.carVerification2(java.lang.String)[pri:2, instance:testCases.TC_01_Identifynewbikes_02@771a660]" name="carVerification2" class="testCases.TC_01_Identifynewbikes_02"/>
+        <method signature="TC_01_Identifynewbikes_02.carVerification3(java.lang.String)[pri:3, instance:testCases.TC_01_Identifynewbikes_02@771a660]" name="carVerification3" class="testCases.TC_01_Identifynewbikes_02"/>
+        <method signature="TC_01_Identifynewbikes_02.carVerification4(java.lang.String)[pri:4, instance:testCases.TC_01_Identifynewbikes_02@771a660]" name="carVerification4" class="testCases.TC_01_Identifynewbikes_02"/>
+        <method signature="TC_01_Identifynewbikes_03.googleVerification(java.lang.String)[pri:1, instance:testCases.TC_01_Identifynewbikes_03@2d52216b]" name="googleVerification" class="testCases.TC_01_Identifynewbikes_03"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-02-28T20:24:10 IST" name="ChromeTest" finished-at="2024-02-28T20:26:50 IST" duration-ms="160823">
+      <class name="testCases.TC_01_Identifynewbikes_01">
+        <test-method is-config="true" signature="openbrowser(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_01_Identifynewbikes_01@72e5a8e]" started-at="2024-02-28T20:24:11 IST" name="openbrowser" finished-at="2024-02-28T20:24:28 IST" duration-ms="17622" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="bikeVerification(java.lang.String)[pri:1, instance:testCases.TC_01_Identifynewbikes_01@72e5a8e]" started-at="2024-02-28T20:24:29 IST" name="bikeVerification" finished-at="2024-02-28T20:24:40 IST" duration-ms="11461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikeVerification -->
+        <test-method signature="bikeVerification1(java.lang.String)[pri:2, instance:testCases.TC_01_Identifynewbikes_01@72e5a8e]" started-at="2024-02-28T20:24:41 IST" name="bikeVerification1" finished-at="2024-02-28T20:25:03 IST" duration-ms="22593" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikeVerification1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_01_Identifynewbikes_01@72e5a8e]" started-at="2024-02-28T20:26:49 IST" name="tearDown" finished-at="2024-02-28T20:26:50 IST" duration-ms="1564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_01_Identifynewbikes_01 -->
+      <class name="testCases.TC_01_Identifynewbikes_02">
+        <test-method signature="carVerification(java.lang.String)[pri:1, instance:testCases.TC_01_Identifynewbikes_02@771a660]" started-at="2024-02-28T20:25:04 IST" name="carVerification" finished-at="2024-02-28T20:25:41 IST" duration-ms="37008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carVerification -->
+        <test-method signature="carVerification2(java.lang.String)[pri:2, instance:testCases.TC_01_Identifynewbikes_02@771a660]" started-at="2024-02-28T20:25:41 IST" name="carVerification2" finished-at="2024-02-28T20:26:04 IST" duration-ms="22580" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carVerification2 -->
+        <test-method signature="carVerification3(java.lang.String)[pri:3, instance:testCases.TC_01_Identifynewbikes_02@771a660]" started-at="2024-02-28T20:26:04 IST" name="carVerification3" finished-at="2024-02-28T20:26:12 IST" duration-ms="8426" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carVerification3 -->
+        <test-method signature="carVerification4(java.lang.String)[pri:4, instance:testCases.TC_01_Identifynewbikes_02@771a660]" started-at="2024-02-28T20:26:13 IST" name="carVerification4" finished-at="2024-02-28T20:26:24 IST" duration-ms="10875" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carVerification4 -->
+      </class> <!-- testCases.TC_01_Identifynewbikes_02 -->
+      <class name="testCases.TC_01_Identifynewbikes_03">
+        <test-method signature="googleVerification(java.lang.String)[pri:1, instance:testCases.TC_01_Identifynewbikes_03@2d52216b]" started-at="2024-02-28T20:26:24 IST" name="googleVerification" finished-at="2024-02-28T20:26:49 IST" duration-ms="24760" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleVerification -->
+      </class> <!-- testCases.TC_01_Identifynewbikes_03 -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
